@@ -29,7 +29,7 @@ def get_health():
         "at time": t
     }
     import os
-    print(os.environ)
+    # print(os.environ)
 
     # DFF TODO Explain status codes, content type, ... ...
     # I'm returning to some program app that called this function
